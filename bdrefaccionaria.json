@@ -1,0 +1,259 @@
+{
+    "dbalmacen" : {
+      "categoria" : {
+        "iluminacion" : {
+          "imagen" : "https://www.nitro.pe/images/2018/abril/lucesled.jpg",
+          "nombre" : "Iluminacion",
+          "productos" : {
+            "-MMSp8YAYGSzZn1WZpAv" : {
+              "descripcion" : "Par de Faros Cuarto Ambar",
+              "detalle" : "VW Jetta",
+              "imagen" : "https://th.bing.com/th/id/OIP.-owDY_a1TrqfaCBSC4TxRgHaHa?pid=ImgDet&rs=1",
+              "nombre" : "DEPO",
+              "precio" : 2576,
+              "stock" : 10
+            },
+            "-MMSppGbcXvoxvXR0a4l" : {
+              "descripcion" : "Calavera Inetrior Lado Pasajero",
+              "detalle" : "SEAT CORDOBA",
+              "imagen" : "https://mastuning.vteximg.com.br/arquivos/ids/13436850-590-590/hella-calavera-interior-lado-pasajero-seat-cordoba-2003-2009-cordoba-0.jpg?v=637838558591970000",
+              "nombre" : "HELLA",
+              "precio" : 1861,
+              "stock" : 25
+            }
+          }
+        },
+        "motor" : {
+          "imagen" : "https://th.bing.com/th/id/R.23f8d076c983d4ffdc18b9e0f7beb3bd?rik=Npik0ckwhhpSdg&pid=ImgRaw&r=0",
+          "nombre" : "Motor",
+          "productos" : {
+            "-MMSqiY8nJhXUeBvt_Oc" : {
+              "descripcion" : "Soporte De Motor Frontal",
+              "detalle" : "Mitsubishi Outlander",
+              "imagen" : "https://http2.mlstatic.com/D_NQ_NP_2X_619206-MLM28913227985_122018-F.jpg",
+              "nombre" : "EAGLE",
+              "precio" : 645,
+              "stock" : 25
+            },
+            "-MMSrOjbinO1xDgJoyVX" : {
+                "descripcion" : "Bomba de Aceite",
+                "detalle" : "Gmc Kodiak",
+                "imagen" : "https://mastuning.vteximg.com.br/arquivos/ids/13532213-320-320/rexite-bomba-de-aceite-gmc-kodiak-2001-2008-kodiak-8-cil-8-1l-0.jpg?v=637844586288830000",
+                "nombre" : "DAI",
+                "precio" : 183,
+                "stock" : 25
+              },
+              "-MMgPIdZpFp2-5e18vQ4" : {
+                "descripcion" : "Repuesto Soporte Motor Frontal Superior Lado Pasajero",
+                "detalle" : "Doge Neon",
+                "imagen" : "https://mastuning.vteximg.com.br/arquivos/ids/12296422-320-320/dai-repuesto-soporte-motor-solido-frontal-superior-lado-pasajero-dodge-neon-2000-2005-neon-l4-2-4l-l4-2-0l-0.jpg?v=637780706581370000",
+                "nombre" : "SOPORTES STAR",
+                "precio" : 172,
+                "stock" : 25
+            }
+          }
+        },
+        "llantas" : {
+          "imagen" : "https://th.bing.com/th/id/OIP.Nvm7NqlnId448dtCHkCt_wHaEK?pid=ImgDet&rs=1",
+          "nombre" : "Llantas",
+          "productos" : {
+            "-MMSfe6qrDTyu9aOVOWG" : {
+              "descripcion" : "Llanta 155 /70 R13",
+              "detalle" : "SP Touring T1 75T",
+              "imagen" : "https://th.bing.com/th/id/OIP.1aMiCCTKJwe0d0XwPdQIjQHaHa?pid=ImgDet&rs=1",
+              "nombre" : "DUNLOP",
+              "precio" : 1799,
+              "stock" : 20
+            },
+            "-MMSoZR9D3CRw9xWmaQP" : {
+              "descripcion" : "Llanta 275 /45 R19",
+              "detalle" : "Advan Sport (V103b)",
+              "imagen" : "https://mastuning.vteximg.com.br/arquivos/ids/4959513-320-320/producto-2296743.jpg?v=637250627809330000",
+              "nombre" : "YOKOHAMA ",
+              "precio" : 9040,
+              "stock" : 20
+            }
+          }
+        }
+      }
+    },
+    "tiendas" : {
+      "-MMlqM-odpUzaB3hWu2-" : {
+        "direccion1" : "C.C Mall de Sur.AV. Los Lirios",
+        "direccion2" : "San juan de miraflores",
+        "nombretienda" : "Tienda 1",
+        "ubicacion" : "Atocongo"
+      },
+      "-MMlqg7Ylav9Ebal8tj3" : {
+        "direccion1" : "C.C Mall Plaza.AV.Oscar R.",
+        "direccion2" : "Benavides 3866 - Bellavista",
+        "nombretienda" : "Tienda 2",
+        "ubicacion" : "Bella vista"
+      },
+      "-MMlqs4_4GDPqeD3CUYN" : {
+        "direccion1" : "C.C Sur Plaza Boulevard. Car.",
+        "direccion2" : "Panamericana Sur Km. 97.5",
+        "nombretienda" : "Tienda 3",
+        "ubicacion" : "Boulervard Asia"
+      },
+      "-MMlr1PlCkDYK2WOzrBW" : {
+        "direccion1" : "C.C La Rambla.AV. Brasil 702",
+        "direccion2" : "Breña",
+        "nombretienda" : "Tienda 4",
+        "ubicacion" : "Breña"
+      },
+      "-MMlrEvUow5X5G4OlxOB" : {
+        "direccion1" : "C.C Plaza Lima Sur.AV Paseo de la republica",
+        "direccion2" : "355 - Chorillos",
+        "nombretienda" : "Tienda 5",
+        "ubicacion" : "Chorrillos"
+      },
+      "-MMlrQ72BiBzIPVKRxVc" : {
+        "direccion1" : "C.C Jockey Plaza. Av.javier prado",
+        "direccion2" : "Este 4200 - Santiago de Surco",
+        "nombretienda" : "Tienda 6",
+        "ubicacion" : "Jockey Plaza"
+      },
+      "-MMlrYUNo94tQ9zHs7lg" : {
+        "direccion1" : "C.C Mega Plaza. AV.Alfredo",
+        "direccion2" : "Mendiola 3696 - Los Olivos",
+        "nombretienda" : "Tienda 7",
+        "ubicacion" : "Los Olivos"
+      },
+      "-MMlrhDNTmLsqjhZ-vbx" : {
+        "direccion1" : "C.C Real Plaza Primavera.Calle",
+        "direccion2" : "Jorge Muelle SN- San borja",
+        "nombretienda" : "Tienda 8",
+        "ubicacion" : "Primavera"
+      },
+      "-MMlrrFq5XAgKZGUAcxv" : {
+        "direccion1" : "C.C Mall Aventura. AV.Carretera",
+        "direccion2" : "Centrall 111 - Santa Anita",
+        "nombretienda" : "Tienda 9",
+        "ubicacion" : "Santa Anita"
+      },
+      "-MMls-vL6md17nTuQ9wy" : {
+        "direccion1" : "C.C Mall Plaza. AV. Los angeles 64",
+        "direccion2" : "Comas",
+        "nombretienda" : "Tienda 10",
+        "ubicacion" : "Comas"
+      }
+    },
+    "ubigeo" : {
+      "departamento" : {
+        "-MMlepOFOxLEb-YKy5Xk" : {
+          "nombredepartamento" : "Arequipa"
+        },
+        "-MMletz9RG7bK_9W2Wd_" : {
+          "nombredepartamento" : "Lima"
+        },
+        "-MMlf-iBw5XgMlnxlq34" : {
+          "nombredepartamento" : "Huanuco"
+        }
+      },
+      "distrito" : {
+        "-MMlfxec5nWjAh8n3RFB" : {
+          "nombredistrito" : "Lima",
+          "nombreprovincia" : "Lima"
+        },
+        "-MMlg0aKqGPOmb_dnbof" : {
+          "nombredistrito" : "Ate",
+          "nombreprovincia" : "Lima"
+        },
+        "-MMlg2R_e_RkW2nKZiW_" : {
+          "nombredistrito" : "Breña",
+          "nombreprovincia" : "Lima"
+        },
+        "-MMlg5dPeYzALQgBZ_gi" : {
+          "nombredistrito" : "Punta Negra",
+          "nombreprovincia" : "Lima"
+        },
+        "-MMlgAb6u3F01NgQ_3e-" : {
+          "nombredistrito" : "Huacho",
+          "nombreprovincia" : "Huarua"
+        },
+        "-MMlgE03UNk324Y0IZUT" : {
+          "nombredistrito" : "Ambar",
+          "nombreprovincia" : "Huarua"
+        },
+        "-MMlgHVfky6IkfQ5-k2I" : {
+          "nombredistrito" : "Sayan",
+          "nombreprovincia" : "Huarua"
+        },
+        "-MMlgPGv5NOektXTN7Io" : {
+          "nombredistrito" : "Arequipa",
+          "nombreprovincia" : "Arequipa"
+        },
+        "-MMlgRgv0eyHbZn0QZeU" : {
+          "nombredistrito" : "Mariano melgar",
+          "nombreprovincia" : "Arequipa"
+        },
+        "-MMlgT9-d3kxWDZYR9CW" : {
+          "nombredistrito" : "La joya",
+          "nombreprovincia" : "Arequipa"
+        },
+        "-MMlgYWMu7twsxmC9AT8" : {
+          "nombredistrito" : "Camana",
+          "nombreprovincia" : "Camana"
+        },
+        "-MMlg_rvguCPXDsAsASL" : {
+          "nombredistrito" : "Quilca",
+          "nombreprovincia" : "Camana"
+        },
+        "-MMlgf56JrNaj4_nWdDv" : {
+          "nombredistrito" : "Ambo",
+          "nombreprovincia" : "Ambo"
+        },
+        "-MMlghOfdlhkPi0XK-8Z" : {
+          "nombredistrito" : "Cayna",
+          "nombreprovincia" : "Ambo"
+        },
+        "-MMlgj7pEe4IsWoXiegv" : {
+          "nombredistrito" : "Colpas",
+          "nombreprovincia" : "Ambo"
+        },
+        "-MMlgmIoPkSG_dCHLRYe" : {
+          "nombredistrito" : "Huanuco",
+          "nombreprovincia" : "Huanuco"
+        },
+        "-MMlgoX1BLY43mz129wi" : {
+          "nombredistrito" : "Amarilis",
+          "nombreprovincia" : "Huanuco"
+        },
+        "-MMlgr87zFRgOgjCDkMc" : {
+          "nombredistrito" : "Chinchao",
+          "nombreprovincia" : "Huanuco"
+        },
+        "-MMlgsm-k-J2y2sYcsFr" : {
+          "nombredistrito" : "Margos",
+          "nombreprovincia" : "Huanuco"
+        }
+      },
+      "provincia" : {
+        "-MMlfEDruHjt3HTUrpcb" : {
+          "nombredepartamento" : "Lima",
+          "nombreprovincia" : "Lima"
+        },
+        "-MMlfOR9avi4yu5xTAS9" : {
+          "nombredepartamento" : "Lima",
+          "nombreprovincia" : "Huarua"
+        },
+        "-MMlfV_s_iEhS9piiKyO" : {
+          "nombredepartamento" : "Arequipa",
+          "nombreprovincia" : "Arequipa"
+        },
+        "-MMlfZ6OM3x-Sw2PnAx1" : {
+          "nombredepartamento" : "Arequipa",
+          "nombreprovincia" : "Camana"
+        },
+        "-MMlfjNbMGJHh2cGxWw2" : {
+          "nombredepartamento" : "Huanuco",
+          "nombreprovincia" : "Ambo"
+        },
+        "-MMlfkVkcDGaU6qWNS0_" : {
+          "nombredepartamento" : "Huanuco",
+          "nombreprovincia" : "Huanuco"
+        }
+      }
+    }
+  }
